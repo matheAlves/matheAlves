@@ -2,7 +2,7 @@
 <h3>A Full Stack Web Developer from Canoas, Brazil</h3>
 
 - 🌱 As a student at Trybe I'm currently looking deeper into back-end development, more specifically the making of efficient APIs, like the one in this [recent project](https://github.com/matheAlves/project-trybesmith), where I use Node, Express, TypeScript, SQL and other tools to make that happen.
-- I am also passionate about front-end development and am particularly fond of design and being visually creative, as you can see in this [other project](https://github.com/matheAlves/project-recipes-app) which I am also very proud of and was built on React, Redux and a whole lot of CSS!
+- I am also passionate about front-end development and am particularly fond of design and being visually creative, as you can see in this [other project](https://github.com/matheAlves/project-recipes-app) which was built on React, Redux and a whole lot of CSS!
 - As a developer, I aim to write clean, efficient and powerful code.
 
 <h3 align="left">Connect with me:</h3>

@@ -1,9 +1,10 @@
 <h1>Hi 👋, I'm Matheus</h1>
-<h3>A Full Stack Web Developer from Canoas, Brazil</h3>
+<h3>A Full Stack Web Developer who loves to create.</h3>
 
 - 🌱 As a student at Trybe I'm currently looking deeper into back-end development, more specifically the making of efficient APIs, like the one in this [recent project](https://github.com/matheAlves/project-trybesmith), where I use Node, Express, TypeScript, SQL and other tools to make that happen.
 - I am also passionate about front-end development and am particularly fond of design and being visually creative, as you can see in this [other project](https://github.com/matheAlves/project-recipes-app) which was built on React, Redux and a whole lot of CSS!
 - As a programmer, my goal is to write clean, intelligent, powerful code.
+- I simply love to create :slightly_smiling_face:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

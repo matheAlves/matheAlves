@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Matheus</h1>
 <h3>A Full Stack Web Developer from Canoas, Brazil</h3>
 
-- 🌱 As a student at Trybe I'm currently looking deeper into back-end development, more specifically the building of efficient APIs, like the one in this [recent project](https://github.com/matheAlves/project-trybesmith)
+- 🌱 As a student at Trybe I'm currently looking deeper into back-end development, more specifically the making of efficient APIs, like the one in this [recent project](https://github.com/matheAlves/project-trybesmith)
 - I am also passionate about front-end development and am particularly fond of design and being visually creative.
 - As a developer, I aim to write clean, efficient and powerful code.
 

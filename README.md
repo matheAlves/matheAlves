@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Matheus</h1>
+<h1>Hi 👋, this is Matheus</h1>
 <h3>A Full Stack Web Developer from Canoas, Brazil</h3>
 
 - 🌱 As a student at Trybe I'm currently looking deeper into back-end development, more specifically the making of efficient APIs, like the one in this [recent project](https://github.com/matheAlves/project-trybesmith)

@@ -2,7 +2,7 @@
 <h3>A Full Stack Web Developer who loves to create.</h3>
 
 - 🌱 As a student at Trybe I'm currently looking deeper into back-end development, more specifically the making of efficient APIs, like the one in this [recent project](https://github.com/matheAlves/project-trybesmith), where I use Node, Express, TypeScript, SQL and other tools to make that happen.
-- I am also passionate about front-end development, and particularly fond of design and getting creative. You can see a little o that in this [other project](https://github.com/matheAlves/project-recipes-app), built with React and a good deal of CSS!
+- I am also passionate about front-end development, and particularly fond of design and getting creative. You can see a little of that in this [other project](https://github.com/matheAlves/project-recipes-app), built with React and a good deal of CSS!
 - As a programmer, my goal is to write clean, intelligent, powerful code.
 
 <h3 align="left">Connect with me:</h3>

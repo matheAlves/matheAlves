@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Matheus</h1>
 <h3>A Full Stack Web Developer who loves to create.</h3>
 
-- 🌱 As a student at Trybe I'm currently looking deeper into back-end development, more specifically the making of efficient APIs, like the one in this [recent project](https://github.com/matheAlves/project-trybesmith), a RESTful API written in TypeScript, using Node, Express, SQL and other tools.
+- 🌱 As a student at Trybe I'm currently looking deeper into back-end development, more specifically the making of efficient APIs, like the one in this [recent project](https://github.com/matheAlves/project-trybesmith), a small RESTful API written in TypeScript, using Node, Express, SQL and other tools.
 - I am also passionate about front-end development, and particularly fond of design and getting creative. You can see a little of that in this [other project](https://github.com/matheAlves/project-recipes-app), a food and drink recipes app built with React and a good deal of CSS!
 - As a programmer, my goal is to write clean, intelligent, powerful code.
 

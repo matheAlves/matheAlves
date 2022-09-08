@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mathealves" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mathealves"/></a>
 <a href="https://instagram.com/matheusalvins" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="matheusalvins"/></a>
-<a href="matheus.souza.alves@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/email-59CE8F?style=for-the-badge&logo=gmail&logoColor=white" alt="email adress matheus.souza.alves@gmail.com"/></a>
+<a href="mailto:matheus.souza.alves@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/email-59CE8F?style=for-the-badge&logo=gmail&logoColor=white" alt="email adress matheus.souza.alves@gmail.com"/></a>
 </p>
 
 <h3 align="left">My current knowledge includes:</h3>

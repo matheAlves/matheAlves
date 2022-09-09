@@ -3,7 +3,7 @@
 
 - 🌱 As a student at [Trybe](https://www.betrybe.com/) I'm currently looking deeper into back-end development, more specifically the making of efficient APIs, like the one in this [recent project](https://github.com/matheAlves/project-trybesmith), a small RESTful API written in TypeScript, using Node, Express, SQL and other tools.
 - I am also passionate about front-end development, and particularly fond of design and getting creative. You can see a little of that in this [other project](https://github.com/matheAlves/project-recipes-app), a food and drink recipes app built with React and a good deal of CSS!
-- As a programmer, my goal is to write clean, intelligent, powerful code.
+- As a programmer, my goal is to write clean, intelligent, powerful code for practical, tasteful applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -17,4 +17,4 @@
 
 <h3 align="left">Now Playing:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=matheus.alves&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=matheus.alves&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=matheus.alves&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=matheus.alves&redirect=true)

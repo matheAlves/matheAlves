@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Matheus</h1>
+<h1>Hi 🙋‍♂️, I'm Matheus</h1>
 <h3>A Full Stack Web Developer who loves to create.</h3>
 
 - 🌱 As a student at [Trybe](https://www.betrybe.com/) I'm currently looking deeper into back-end development, more specifically the making of efficient APIs, like the one in this [recent project](https://github.com/matheAlves/project-trybesmith), a small RESTful API written in TypeScript, using Node, Express, SQL and other tools.

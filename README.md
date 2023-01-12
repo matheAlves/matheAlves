@@ -1,5 +1,5 @@
 <h1>Hi 🙋‍♂️, I'm Matheus</h1>
-<h3>A Full Stack Web Developer who loves to create.</h3>
+<h3>A Full Stack Developer who loves to create.</h3>
 
 - 🌱 Currently learning Python.
 - As a student at [Trybe](https://www.betrybe.com/) I've built a number of RESTful APIs, such as the one in this [recent project](https://github.com/matheAlves/project-car-shop), which was written in TypeScript, using Node, Express, MongoDB and other tools, and this [other one](https://github.com/matheAlves/project-trybesmith) that uses a relational database instead (MySQL).

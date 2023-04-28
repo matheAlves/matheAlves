@@ -1,11 +1,3 @@
-<h1>Hi 🙋‍♂️, I'm Matheus</h1>
-<h3>A Full Stack Developer who loves to create.</h3>
-
-- As a student at [Trybe](https://www.betrybe.com/), I built a number of RESTful APIs such as [this one](https://github.com/matheAlves/project-car-shop), using TypeScript, Node, Express, MongoDB and other tools, and this [other one](https://github.com/matheAlves/project-trybesmith) that uses a relational database instead (MySQL).
-- I am also passionate about front-end development, and particularly fond of design and getting creative. You can see a little of that in this [other project](https://github.com/matheAlves/project-recipes-app), a food and drink recipes app built with React.
-- **As a programmer, my goal is to write clean, intelligent, powerful code for practical, tasteful applications.**
-
-<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mathealves" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mathealves"/></a><a href="mailto:matheus.souza.alves@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/email-59CE8F?style=for-the-badge&logo=gmail&logoColor=white" alt="email adress matheus.souza.alves@gmail.com"/></a>
 </p>
